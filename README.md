@@ -1,4 +1,4 @@
-# Ćwiczenie 2 — System sterowania: pętla PI/PID, tryby, testy akceptacyjne
+# System sterowania: pętla PI/PID, tryby, testy akceptacyjne
 
 ## Cel
 
